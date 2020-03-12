@@ -1,0 +1,7 @@
+{
+  "name": "curaTestApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
